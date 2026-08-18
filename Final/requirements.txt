@@ -1,0 +1,9 @@
+# Phien ban da kiem chung: model tai tao chinh xac tung bit voi bo nay
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+lightgbm==4.7.0
+joblib==1.5.3
+
+# Chi can neu dung CourtMask (loc khong gian) - khong bat buoc
+opencv-python>=4.8
